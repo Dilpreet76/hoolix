@@ -13,7 +13,7 @@
 
   Hoolix is a fully responsive digital agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://Dilpreet76.github.io/hoolix/"><strong>➥ Live Demo</strong></a>
+  <a href="https://codewithsadee.github.io/hoolix/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
